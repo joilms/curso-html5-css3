@@ -1,0 +1,44 @@
+body {
+    background: rgb(231, 231, 231);
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
+}
+
+nav {
+    font-family: fantasy;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: rgb(32, 32, 75);
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 16px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo {
+    width: 30px;
+}
+
+footer {
+    text-align: right;
+    margin-bottom: 30px;
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 12px;
+}
